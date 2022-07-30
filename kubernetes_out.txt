@@ -28,3 +28,10 @@
 [2022-07-30 04:24:23,290] INFO in app: output prediction: [20.35373177134412]
 127.0.0.1 - - [30/Jul/2022 04:24:23] "POST /predict HTTP/1.1" 200 -
 
+NAME                               READY   STATUS    RESTARTS       AGE
+demolocal-first-648cf7f8fc-fr5qx   1/1     Running   3 (124m ago)   142m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+
